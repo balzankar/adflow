@@ -1,0 +1,52 @@
+Changelog
+
+V2.2
+Added Segmented Ads based on Recent search.
+Added Segmented Ads based on most Relavant searches.
+
+V2.0
+Added Segmented Ads.
+
+V1.2
+Bug Fixes.
+User search Table.
+
+V1.1
+Mobile Responsive.
+Data Tables.
+User Email Registration.
+Minor Tweeks in User Profile.
+Enhancement in User Search.
+UI Changes.
+Registration for Advertisers and User.
+
+V0.30
+Mobile Ready.
+Small Bug Fixes.
+Few Minor UI Tweeks.
+
+V0.27
+Added Animations.
+Hover Effects.
+
+V0.26
+Redesigned UI.
+Enchanced Search results.
+My Search Added.
+Added Notification pannel for Admin.
+Added Direct Registration.
+
+v0.25
+Added Keywords in Advertisement.
+Added Third Party - Flipkart India.
+UI Redesign.
+UI Animation.
+Redesigned Live Ads Interface.
+Added Recent Searches.
+Added User Information in Search.
+Added Retailer Information in Search.
+Added Timestamp in Search.
+
+v0.24
+Added Search.
+Added Live Ads.
